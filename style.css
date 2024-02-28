@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?faimy-Poppins');
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  front-family: 'Poppins', sens-serif;
+  front-family: 'Poppins', sans-serif;
 }
 body {
     display: flex;
